@@ -1,4 +1,5 @@
 UPDATING SVG TEXT FILE IN REACT.
+
 Open vscode terminal
 Install npx create-react-app my-react-svg
 cd my-react-svg
